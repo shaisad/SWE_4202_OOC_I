@@ -1,0 +1,11 @@
+C:\Users\mskar\source\repos\CarRental\RoomRent\bin\Debug\RoomRent.exe.config
+C:\Users\mskar\source\repos\CarRental\RoomRent\bin\Debug\RoomRent.exe
+C:\Users\mskar\source\repos\CarRental\RoomRent\bin\Debug\RoomRent.pdb
+C:\Users\mskar\source\repos\CarRental\RoomRent\obj\Debug\RoomRent.csproj.AssemblyReference.cache
+C:\Users\mskar\source\repos\CarRental\RoomRent\obj\Debug\RoomRent.csproj.SuggestedBindingRedirects.cache
+C:\Users\mskar\source\repos\CarRental\RoomRent\obj\Debug\RoomRent.Form1.resources
+C:\Users\mskar\source\repos\CarRental\RoomRent\obj\Debug\RoomRent.Properties.Resources.resources
+C:\Users\mskar\source\repos\CarRental\RoomRent\obj\Debug\RoomRent.csproj.GenerateResource.cache
+C:\Users\mskar\source\repos\CarRental\RoomRent\obj\Debug\RoomRent.csproj.CoreCompileInputs.cache
+C:\Users\mskar\source\repos\CarRental\RoomRent\obj\Debug\RoomRent.exe
+C:\Users\mskar\source\repos\CarRental\RoomRent\obj\Debug\RoomRent.pdb
