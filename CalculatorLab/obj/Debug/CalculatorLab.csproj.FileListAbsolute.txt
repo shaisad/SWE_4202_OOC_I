@@ -1,0 +1,11 @@
+C:\Users\sadia\source\repos\CalculatorLab\bin\Debug\CalculatorLab.exe.config
+C:\Users\sadia\source\repos\CalculatorLab\bin\Debug\CalculatorLab.exe
+C:\Users\sadia\source\repos\CalculatorLab\bin\Debug\CalculatorLab.pdb
+C:\Users\sadia\source\repos\CalculatorLab\obj\Debug\CalculatorLab.csproj.AssemblyReference.cache
+C:\Users\sadia\source\repos\CalculatorLab\obj\Debug\CalculatorLab.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadia\source\repos\CalculatorLab\obj\Debug\CalculatorLab.Form1.resources
+C:\Users\sadia\source\repos\CalculatorLab\obj\Debug\CalculatorLab.Properties.Resources.resources
+C:\Users\sadia\source\repos\CalculatorLab\obj\Debug\CalculatorLab.csproj.GenerateResource.cache
+C:\Users\sadia\source\repos\CalculatorLab\obj\Debug\CalculatorLab.csproj.CoreCompileInputs.cache
+C:\Users\sadia\source\repos\CalculatorLab\obj\Debug\CalculatorLab.exe
+C:\Users\sadia\source\repos\CalculatorLab\obj\Debug\CalculatorLab.pdb
